@@ -26,7 +26,7 @@ package = "netlify-plugin-11ty"
 
   [plugins.inputs]
     buildDir = "_site"
-    reportOnly = false
+    reportOnly = true
 
   [plugins.inputs.policies]
     defaultSrc = "'self'"
