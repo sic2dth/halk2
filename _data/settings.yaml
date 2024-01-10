@@ -10,7 +10,7 @@ config:
     Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
-  site_url: 'https://relaxed-raindrop-c01468.netlify.app/'
+  site_url: main--relaxed-raindrop-c01468.netlify.app
   site_title: Portfolio
   site_subtitle_1: '2024'
   site_subtitle_2: ''
