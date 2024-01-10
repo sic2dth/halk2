@@ -10,7 +10,7 @@ config:
     Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
-  site_url: 'https://main--relaxed-raindrop-c01468.netlify.app'
+  site_url: 'https://minionfells.netlify.app'
   site_title: Rosh Suryawanshi
   site_subtitle_1: Portfolio - 2024
   site_subtitle_2: ''
@@ -23,8 +23,8 @@ metadata:
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: Portfolio
-    site_description: '2024'
+    site_title: ''
+    site_description: ''
     no_index: true
 theme:
   theme_layout:
