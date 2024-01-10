@@ -16,7 +16,7 @@ metadata:
   site_subtitle_2: ''
   site_description: >
     Rosh Suryawanshi is a photographer, graphic designer and video editor based
-    in Pune, MH. 
+    in Pune, MH.
   site_email: rxshan@pm.me
   site_social_url: 'https://ro-sh.com'
   site_icon_svg: /assets/uploadsassets/icons/favicon.svg
@@ -59,4 +59,4 @@ images:
     quality: 75
 i18n:
   site_language: en
-  site_social_title: GitHub
+  site_social_title: Contact
