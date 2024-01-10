@@ -55,7 +55,7 @@ images:
     enabled: true
     quality: 75
   avif:
-    enabled: true
+    enabled: false
     quality: 75
 i18n:
   site_language: en
