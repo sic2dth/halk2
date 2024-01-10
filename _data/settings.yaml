@@ -23,9 +23,9 @@ metadata:
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: ''
+    site_title: Portfolio | 2024
     site_description: ''
-    no_index: true
+    no_index: false
 theme:
   theme_layout:
     space_scale: 100
