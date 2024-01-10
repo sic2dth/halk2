@@ -10,7 +10,7 @@ config:
     Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
-  site_url: 'https://minionfells.netlify.app'
+  site_url: 'https://main--minionfells.netlify.app'
   site_title: Rosh Suryawanshi
   site_subtitle_1: Portfolio - 2024
   site_subtitle_2: ''
@@ -32,7 +32,7 @@ theme:
   theme_colors:
     background: '#ffffff'
     text: '#101010'
-    link: '#542BFF'
+    link: '#3000FF'
     background_dark: '#101010'
     text_dark: '#c1c1c1'
     link_dark: '#ffffff'
@@ -42,7 +42,7 @@ theme:
     font_scale: 100
     line_height_scale: 100
   theme_features:
-    enable_dark_mode: true
+    enable_dark_mode: false
     item_output_limit: 48
     transition_duration: 300
     show_project_year: true
@@ -55,7 +55,7 @@ images:
     enabled: true
     quality: 75
   avif:
-    enabled: false
+    enabled: true
     quality: 75
 i18n:
   site_language: en
